@@ -1,5 +1,7 @@
-streamlit
+streamlit==1.35.0
+tensorflow==2.13.0
+Pillow
+numpy
 scikit-learn
 streamlit_extras
 keras
-tensorflow
